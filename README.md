@@ -55,6 +55,7 @@
 - [Adli Bilişim Türkiye](https://t.me/AdliBilisimTurkiye): Adli Bilişim Türkiye Topluluğu
 - [Bilgisayar Bilimleri Arşiv](https://t.me/csarchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
 - [Corum Dev Society](https://t.me/+ors5ZAw6qGc4Y2Ix): Corum Geliştirici Topluluğu
+- [Karadenizdeki Yazılımcılar](https://t.me/blackseadevs): Karadeniz bölgesinde yaşayan ve çalışan yazılımcılar topluluğu
 
 
 
